@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Softtool/github/TetR/src/temp/Check.java" timestamp="1488640030436">
-        <mark key="[" line="22" column="6" />
+      <file name="D:/Softtool/github/TetR/src/temp/Check.java" timestamp="1488688438506">
+        <mark key="[" line="23" column="0" />
         <mark key="]" line="22" column="6" />
         <mark key="." line="22" column="6" />
         <mark key="^" line="22" column="6" />
@@ -29,6 +29,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
